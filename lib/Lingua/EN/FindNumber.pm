@@ -1,8 +1,6 @@
 package Lingua::EN::FindNumber;
-
+$Lingua::EN::FindNumber::VERSION = '1.30';
 use 5.006;
-our $VERSION = '1.2';
-
 use strict;
 use warnings;
 
@@ -83,6 +81,10 @@ L<Lingua::EN::Words2Nums>, which is a very cool module anyway. (And I
 stole some of this module's code from it. Thanks, Joey!) It may also
 be involved with L<Lingua::EN::NamedEntity> in the future, so check that
 one out too.
+
+=head1 REPOSITORY
+
+L<https://github.com/neilbowers/Lingua-EN-FindNumber>
 
 =head1 AUTHOR
 
